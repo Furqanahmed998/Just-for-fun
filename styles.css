@@ -1,0 +1,51 @@
+/* Custom CSS */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fce4ec; /* Light Pink */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffb6c1; /* Light Pink */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    color: #8e44ad; /* Purple */
+}
+
+#quiz {
+    background-color: #fff; /* White */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    color: #8e44ad; /* Purple */
+}
+
+button {
+    background-color: #ff85a2; /* Light Pink */
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    margin: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #ff6b81; /* Lighter Pink */
+}
+
+#results {
+    margin-top: 20px;
+    text-align: center;
+    color: #8e44ad; /* Purple */
+}
